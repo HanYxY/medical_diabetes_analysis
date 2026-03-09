@@ -92,6 +92,19 @@ Random Forest Classifier
 
 ---
 
+## Python Visualizations
+
+### Feature Importance
+![Feature Importance](images/feature_importance.png)
+
+### Glucose Analysis
+![Glucose Analysis](images/glucose_vs_diabetes.png)
+
+### ROC Curve
+![ROC Curve](images/ROC_curve.png)
+
+---
+
 ## Power BI Dashboard
 
 Power BI was used to build an interactive dashboard to visualize diabetes risk patterns.
