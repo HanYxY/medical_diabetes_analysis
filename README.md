@@ -108,7 +108,7 @@ Main dashboard components include:
 
 ## Example Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/powerbi_dashboard.png)
 
 ---
 
